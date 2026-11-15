@@ -1,0 +1,53 @@
+{
+  "model": "Logistic Regression",
+  "trained_at": "2026-11-14T20:05:58",
+  "features": [
+    "Age",
+    "Tenure_Months",
+    "Monthly_Charges",
+    "Login_Frequency",
+    "Support_Tickets",
+    "Complaints",
+    "Discount_Received",
+    "Last_Login_Days",
+    "Usage_Hours",
+    "Customer_Satisfaction",
+    "Customer_Lifetime_Value",
+    "Engagement_Score",
+    "Support_Risk",
+    "Contract_Type",
+    "Subscription_Type",
+    "Gender",
+    "Location",
+    "Payment_Method",
+    "Inactivity_Flag"
+  ],
+  "defaults": {
+    "Age": 38.0,
+    "Tenure_Months": 26.0,
+    "Monthly_Charges": 579.115,
+    "Login_Frequency": 13.0,
+    "Support_Tickets": 1.0,
+    "Complaints": 1.0,
+    "Discount_Received": 5.0,
+    "Last_Login_Days": 6.0,
+    "Usage_Hours": 18.9,
+    "Customer_Satisfaction": 4.0,
+    "Contract_Type": "Month-to-Month",
+    "Subscription_Type": "Basic",
+    "Gender": "Female",
+    "Location": "Delhi",
+    "Payment_Method": "UPI"
+  },
+  "value_cutoffs": {
+    "low": 3978.5652,
+    "high": 7744.9596
+  },
+  "test_metrics": {
+    "Accuracy": 0.696,
+    "Precision": 0.30364372469635625,
+    "Recall": 0.7097791798107256,
+    "F1": 0.42533081285444235,
+    "ROC-AUC": 0.7632326231324189
+  }
+}
