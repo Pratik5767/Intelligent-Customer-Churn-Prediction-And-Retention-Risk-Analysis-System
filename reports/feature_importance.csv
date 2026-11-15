@@ -1,0 +1,116 @@
+,,feature,value
+Random Forest (built-in),0,Contract_Type,0.14001750736335455
+Random Forest (built-in),1,Tenure_Months,0.11117073854016091
+Random Forest (built-in),2,Customer_Lifetime_Value,0.07826306545387209
+Random Forest (built-in),3,Engagement_Score,0.07495319849740202
+Random Forest (built-in),4,Monthly_Charges,0.07079331745711662
+Random Forest (built-in),5,Support_Risk,0.06786630941736238
+Random Forest (built-in),6,Last_Login_Days,0.05928277247836397
+Random Forest (built-in),7,Complaints,0.05624321320227532
+Random Forest (built-in),8,Usage_Hours,0.054726209952568695
+Random Forest (built-in),9,Customer_Satisfaction,0.04451302724926783
+Random Forest (built-in),10,Age,0.04448913647423201
+Random Forest (built-in),11,Login_Frequency,0.04239070705581639
+Random Forest (built-in),12,Discount_Received,0.030305966298865398
+Random Forest (built-in),13,Support_Tickets,0.024702015713665485
+Random Forest (built-in),14,Subscription_Type,0.015199656995673874
+Random Forest (built-in),15,Inactivity_Flag,0.010354717446749278
+Random Forest (built-in),16,Gender_Male,0.008853167651300653
+Random Forest (built-in),17,Payment_Method_UPI,0.008775138868915533
+Random Forest (built-in),18,Gender_Female,0.008645905418501042
+Random Forest (built-in),19,Payment_Method_Credit Card,0.007535858697597368
+Random Forest (built-in),20,Payment_Method_Debit Card,0.006065255200100933
+Random Forest (built-in),21,Location_Mumbai,0.004948017842734088
+Random Forest (built-in),22,Location_Delhi,0.00469161833985687
+Random Forest (built-in),23,Location_Bengaluru,0.0045327901328193155
+Random Forest (built-in),24,Location_Chennai,0.003463504372485089
+Random Forest (built-in),25,Payment_Method_Net Banking,0.003367684156859676
+Random Forest (built-in),26,Location_Kolkata,0.00308681954589821
+Random Forest (built-in),27,Location_Hyderabad,0.0030474592014576064
+Random Forest (built-in),28,Location_Pune,0.002798161632227587
+Random Forest (built-in),29,Payment_Method_Wallet,0.0023586152136729323
+Random Forest (built-in),30,Location_Ahmedabad,0.0023164613342826286
+Random Forest (built-in),31,Gender_Other,0.00024198279454364752
+Decision Tree (built-in),0,Contract_Type,0.3996707305951231
+Decision Tree (built-in),1,Tenure_Months,0.17474665392538544
+Decision Tree (built-in),2,Support_Risk,0.16990333383927878
+Decision Tree (built-in),3,Complaints,0.05264000937120199
+Decision Tree (built-in),4,Customer_Satisfaction,0.04945761577766207
+Decision Tree (built-in),5,Monthly_Charges,0.04879979118979891
+Decision Tree (built-in),6,Last_Login_Days,0.031524525544332195
+Decision Tree (built-in),7,Engagement_Score,0.027769142098741595
+Decision Tree (built-in),8,Discount_Received,0.020758548803436586
+Decision Tree (built-in),9,Customer_Lifetime_Value,0.013585668770404883
+Decision Tree (built-in),10,Location_Delhi,0.0111439800846343
+Decision Tree (built-in),11,Age,0.0
+Decision Tree (built-in),12,Support_Tickets,0.0
+Decision Tree (built-in),13,Usage_Hours,0.0
+Decision Tree (built-in),14,Subscription_Type,0.0
+Decision Tree (built-in),15,Login_Frequency,0.0
+Decision Tree (built-in),16,Gender_Female,0.0
+Decision Tree (built-in),17,Gender_Male,0.0
+Decision Tree (built-in),18,Location_Ahmedabad,0.0
+Decision Tree (built-in),19,Gender_Other,0.0
+Decision Tree (built-in),20,Location_Bengaluru,0.0
+Decision Tree (built-in),21,Location_Chennai,0.0
+Decision Tree (built-in),22,Location_Hyderabad,0.0
+Decision Tree (built-in),23,Location_Kolkata,0.0
+Decision Tree (built-in),24,Location_Mumbai,0.0
+Decision Tree (built-in),25,Location_Pune,0.0
+Decision Tree (built-in),26,Payment_Method_Credit Card,0.0
+Decision Tree (built-in),27,Payment_Method_Debit Card,0.0
+Decision Tree (built-in),28,Payment_Method_Net Banking,0.0
+Decision Tree (built-in),29,Payment_Method_UPI,0.0
+Decision Tree (built-in),30,Payment_Method_Wallet,0.0
+Decision Tree (built-in),31,Inactivity_Flag,0.0
+Logistic Regression (permutation),0,Contract_Type,0.08407286822577217
+Logistic Regression (permutation),1,Tenure_Months,0.07146113201039894
+Logistic Regression (permutation),2,Engagement_Score,0.03554209753875728
+Logistic Regression (permutation),3,Usage_Hours,0.015757313344991853
+Logistic Regression (permutation),4,Complaints,0.013179859459317489
+Logistic Regression (permutation),5,Monthly_Charges,0.012591680396467863
+Logistic Regression (permutation),6,Customer_Satisfaction,0.011736965123493115
+Logistic Regression (permutation),7,Support_Risk,0.0073451156583462015
+Logistic Regression (permutation),8,Customer_Lifetime_Value,0.006494711449248358
+Logistic Regression (permutation),9,Subscription_Type,0.006494524011688518
+Logistic Regression (permutation),10,Last_Login_Days,0.0034584104170297
+Logistic Regression (permutation),11,Discount_Received,0.002211200893702181
+Logistic Regression (permutation),12,Inactivity_Flag,0.001074392093133858
+Logistic Regression (permutation),13,Login_Frequency,0.00011040072275912971
+Logistic Regression (permutation),14,Age,2.511663302152689e-05
+Logistic Regression (permutation),15,Support_Tickets,-0.00013195604214355505
+Logistic Regression (permutation),16,Payment_Method,-0.00031170866205204595
+Logistic Regression (permutation),17,Gender,-0.00043260588816361744
+Logistic Regression (permutation),18,Location,-0.0004558481455866015
+Logistic Regression (coefficients),0,Contract_Type,-0.9669627433095216
+Logistic Regression (coefficients),1,Tenure_Months,-0.6863995461252814
+Logistic Regression (coefficients),2,Engagement_Score,-0.3898688525634838
+Logistic Regression (coefficients),3,Usage_Hours,0.3216110754292122
+Logistic Regression (coefficients),4,Monthly_Charges,0.27219146507898595
+Logistic Regression (coefficients),5,Customer_Satisfaction,-0.26209785323201834
+Logistic Regression (coefficients),6,Payment_Method_Wallet,0.25270880508738414
+Logistic Regression (coefficients),7,Subscription_Type,-0.24413979136654787
+Logistic Regression (coefficients),8,Complaints,0.22407786806242472
+Logistic Regression (coefficients),9,Location_Ahmedabad,-0.1925754047101377
+Logistic Regression (coefficients),10,Support_Risk,0.18807666192656972
+Logistic Regression (coefficients),11,Discount_Received,-0.18652401076930678
+Logistic Regression (coefficients),12,Customer_Lifetime_Value,0.1743619782198985
+Logistic Regression (coefficients),13,Location_Mumbai,0.16226643597224663
+Logistic Regression (coefficients),14,Location_Kolkata,0.16193995742828
+Logistic Regression (coefficients),15,Location_Delhi,0.137774925403966
+Logistic Regression (coefficients),16,Gender_Other,0.12781268745935906
+Logistic Regression (coefficients),17,Payment_Method_Debit Card,0.0940535425130715
+Logistic Regression (coefficients),18,Inactivity_Flag,0.08128686422095746
+Logistic Regression (coefficients),19,Last_Login_Days,0.08038054951138321
+Logistic Regression (coefficients),20,Gender_Male,0.08000738601125276
+Logistic Regression (coefficients),21,Payment_Method_Credit Card,-0.0667875144256272
+Logistic Regression (coefficients),22,Location_Hyderabad,0.06311630563458033
+Logistic Regression (coefficients),23,Location_Bengaluru,-0.05871896041441736
+Logistic Regression (coefficients),24,Location_Chennai,-0.056377061389768834
+Logistic Regression (coefficients),25,Support_Tickets,0.05322993666070736
+Logistic Regression (coefficients),26,Payment_Method_UPI,-0.026613266468033372
+Logistic Regression (coefficients),27,Gender_Female,0.02544543750729805
+Logistic Regression (coefficients),28,Payment_Method_Net Banking,-0.020096055728886668
+Logistic Regression (coefficients),29,Location_Pune,0.01583931305316034
+Logistic Regression (coefficients),30,Login_Frequency,-0.0048931341156625155
+Logistic Regression (coefficients),31,Age,-0.0031746817942994794
